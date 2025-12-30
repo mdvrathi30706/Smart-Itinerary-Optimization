@@ -126,7 +126,7 @@ Smart-Itinerary-Optimization/
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/Smart-Itinerary-Optimization.git
+git clone https://github.com/mdvrathi30706/Smart-Itinerary-Optimization.git
 cd Smart-Itinerary-Optimization
 pip install -r requirements.txt
 streamlit run app.py
